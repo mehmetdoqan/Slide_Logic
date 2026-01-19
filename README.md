@@ -11,8 +11,7 @@ Her hamlede taşların nerede duracağını önceden düşün, çünkü bir kez 
     * Taşlar çapraz hareket edemez.
     * Bir taş hareket etmeye başladığında kendiliğinden durmaz.
     
-   ➡️ Taş Ne Zaman Durur?
-   * Başka bir taşa çarptığında durur.
+   ➡️ Taş Ne Zaman Durur?  * Başka bir taşa çarptığında durur.
 
 🚪 Duvar ve Boşluk Kuralı
     * Eğer bir taş, önünde hiçbir engel olmadan duvara doğru kayarsa:
