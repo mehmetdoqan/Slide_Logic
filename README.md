@@ -41,4 +41,7 @@ Yaş Grubu
     * Planlama ve ileriye dönük tahmin yapabilmesini
     * Hata yaparak öğrenme yaklaşımını deneyimlemesini destekler.
 
+![Uploading image.png…]()
 
+🚀 Canlı Demo
+https://mehmetdoqan.github.io/Slide_Logic/
